@@ -56,7 +56,7 @@
         .error {
             background-color: #ffebe8;
             border-left: 5px solid #e74c3c;
-            color: #e74c3c;
+            color: #000000;
         }
     </style>
 </head>
