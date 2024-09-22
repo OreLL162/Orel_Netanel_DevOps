@@ -21,7 +21,7 @@
             border-radius: 8px;
         }
         h2 {
-            color: #0056b3;
+            color: #000000;
         }
         form {
             display: flex;
