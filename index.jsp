@@ -66,7 +66,7 @@
         <form action="Project.jsp" method="post">
             <input type="text" name="username" placeholder="Enter your name here" required>
             <input type="submit" name="action" value="Submit Name">
-            <input type="submit" name="action" value="Say Hello">
+            <input type="submit" name="action" value="Say Hello Orel">
         </form>
 
         <%
