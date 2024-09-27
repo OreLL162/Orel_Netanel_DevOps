@@ -7,7 +7,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
-            color: #333;
+            color: #db4444;
             margin: 0;
             padding: 0;
         }
@@ -66,7 +66,7 @@
         <form action="Project.jsp" method="post">
             <input type="text" name="username" placeholder="Enter your name here" required>
             <input type="submit" name="action" value="Submit Name">
-            <input type="submit" name="action" value="Orel and Netanel">
+            <input type="submit" name="action" value="Say Hello">
         </form>
 
         <%
