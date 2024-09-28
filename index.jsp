@@ -55,7 +55,7 @@
         }
         .error {
             background-color: #ffebe8;
-            border-left: 5px solid #e74c3c;
+            border-left: 5px solid #000000;
             color: #000000;
         }
     </style>
