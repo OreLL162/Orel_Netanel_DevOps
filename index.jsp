@@ -32,7 +32,7 @@
             padding: 10px;
             font-size: 16px;
             border: 1px solid #ccc;
-            border-radius: 4px;
+            border-radius: 5px;
             width: 100%;
         }
         input[type="submit"] {
